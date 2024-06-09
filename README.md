@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hey, You! 👋
 
 I'm Ziad, a 21-year-old recent graduate with a Bachelor's degree in Computer Science and Artificial Intelligence. 🎓💻
 
