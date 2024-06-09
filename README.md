@@ -4,14 +4,14 @@ I'm Ziad, a 21-year-old recent graduate with a Bachelor's degree in Computer Sci
 
 ## About Me 📝
 
-I'm currently working as a Backend Developer, specializing in the .NET framework. I love everything about coding and problem-solving.
+I'm currently working as a Backend Developer, specializing in the .NET framework. I love everything about debugging and problem-solving.
 My journey in the tech world has just begun, and I'm excited about the endless possibilities that lie ahead. 🚀
 
 In my free time, I enjoy everything about cinema and TV shows. 🎬🍿
 
 ## Skills 🛠️
 
-- **Languages**: C#, .NET Framework
+- **Languages**: C#, .NET Framework, Python, C++ 
 - **Concepts**: Backend Development, OOP, Microservices Architecture
 - **Tools**: GitHub, Azure, VsCode, MSPakage.
 
