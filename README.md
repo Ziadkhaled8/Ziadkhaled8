@@ -1,64 +1,31 @@
-# Hi, I'm Ziad Khaled 👋
+# Ziad Khaled
 
-A recent graduate in Computer Science and Artificial Intelligence, currently working as a Backend Developer with a strong focus on .NET and backend systems.
+**Backend Developer | C# / .NET | Computer Science & Artificial Intelligence Graduate**
 
-<div align="center">
+I build backend applications with a focus on .NET, clear business logic, and maintainable software. I enjoy solving technical problems, debugging, and developing my skills as an engineer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ziadkhaled1)
-[![GitHub](https://img.shields.io/badge/GitHub-Ziadkhaled8-181717?style=for-the-badge&logo=github)](https://github.com/Ziadkhaled8)
-[![Email](https://img.shields.io/badge/Email-ziadkhaledmadeeh%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ziadkhaledmadeeh@gmail.com)
+[LinkedIn](https://linkedin.com/in/ziadkhaled1) · [GitHub](https://github.com/Ziadkhaled8) · [Email](mailto:ziadkhaledmadeeh@gmail.com)
 
-</div>
+## Professional Experience
 
-## About Me
+### Backend Developer
 
-- Recent graduate in Computer Science and Artificial Intelligence
-- Backend Developer specialized in the .NET ecosystem
-- Passionate about debugging, problem-solving, and building reliable backend solutions
-- Interested in software engineering, APIs, and scalable application development
-- Always eager to learn, improve, and take on new technical challenges
+- Develop backend solutions using the .NET ecosystem.
+- Apply object-oriented programming and backend development principles.
+- Debug issues and solve technical problems with a focus on maintainable solutions.
 
-## Core Skills
+## Technical Skills
 
-### Languages
-- C#
-- Python
-- C++
+- **Languages:** C#, Python, C++
+- **Backend:** .NET Framework, REST API design, microservices architecture, object-oriented programming
+- **Tools & platforms:** GitHub, Azure, Visual Studio Code
 
-### Backend & Development
-- .NET Framework
-- Backend Development
-- OOP Principles
-- RESTful API Design
-- Microservices Architecture
-- Problem Solving & Debugging
+## Education
 
-### Tools & Platforms
-- GitHub
-- Azure
-- Visual Studio Code
-- Postman
+Bachelor’s degree in Computer Science and Artificial Intelligence
 
-## What I Bring
+## Contact
 
-- Strong understanding of backend development fundamentals
-- Ability to solve technical challenges efficiently
-- Comfortable working with modern developer tools and workflows
-- Focus on clean, maintainable, and scalable solutions
-
-## Career Focus
-
-I am building my career in backend development, with a particular interest in:
-
-- API development
-- Business logic and system architecture
-- Performance and reliability improvements
-- Continuous learning in software engineering
-
-## Connect With Me
-
-- LinkedIn: https://linkedin.com/in/ziadkhaled1
-- GitHub: https://github.com/Ziadkhaled8
-- Email: ziadkhaledmadeeh@gmail.com
-
-Thanks for visiting my profile! 🚀
+- **Email:** [ziadkhaledmadeeh@gmail.com](mailto:ziadkhaledmadeeh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ziadkhaled1](https://linkedin.com/in/ziadkhaled1)
+- **GitHub:** [github.com/Ziadkhaled8](https://github.com/Ziadkhaled8)
