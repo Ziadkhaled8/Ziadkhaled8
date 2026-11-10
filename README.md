@@ -1,22 +1,64 @@
-# Hey, You! 👋
+# Hi, I'm Ziad Khaled 👋
 
-I'm Ziad, a 21-year-old recent graduate with a Bachelor's degree in Computer Science and Artificial Intelligence. 🎓💻
+A recent graduate in Computer Science and Artificial Intelligence, currently working as a Backend Developer with a strong focus on .NET and backend systems.
 
-## About Me 📝
+<div align="center">
 
-I'm currently working as a Backend Developer, specializing in the .NET framework. I love everything about debugging and problem-solving.
-My journey in the tech world has just begun, and I'm excited about the endless possibilities that lie ahead. 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ziadkhaled1)
+[![GitHub](https://img.shields.io/badge/GitHub-Ziadkhaled8-181717?style=for-the-badge&logo=github)](https://github.com/Ziadkhaled8)
+[![Email](https://img.shields.io/badge/Email-ziadkhaledmadeeh%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ziadkhaledmadeeh@gmail.com)
 
-In my free time, I enjoy everything about cinema and TV shows. 🎬🍿
+</div>
 
-## Skills 🛠️
+## About Me
 
-- **Languages**: C#, .NET Framework, Python, C++ 
-- **Concepts**: Backend Development, OOP, Microservices Architecture
-- **Tools**: GitHub, Azure, VsCode, MSPakage.
+- Recent graduate in Computer Science and Artificial Intelligence
+- Backend Developer specialized in the .NET ecosystem
+- Passionate about debugging, problem-solving, and building reliable backend solutions
+- Interested in software engineering, APIs, and scalable application development
+- Always eager to learn, improve, and take on new technical challenges
 
-## Contact Me 📫
+## Core Skills
 
-Feel free to reach out to me on my business email: ziadkhaledmadeeh@gmail.com
+### Languages
+- C#
+- Python
+- C++
 
-Thanks for stopping by! 😊
+### Backend & Development
+- .NET Framework
+- Backend Development
+- OOP Principles
+- RESTful API Design
+- Microservices Architecture
+- Problem Solving & Debugging
+
+### Tools & Platforms
+- GitHub
+- Azure
+- Visual Studio Code
+- Postman
+
+## What I Bring
+
+- Strong understanding of backend development fundamentals
+- Ability to solve technical challenges efficiently
+- Comfortable working with modern developer tools and workflows
+- Focus on clean, maintainable, and scalable solutions
+
+## Career Focus
+
+I am building my career in backend development, with a particular interest in:
+
+- API development
+- Business logic and system architecture
+- Performance and reliability improvements
+- Continuous learning in software engineering
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ziadkhaled1
+- GitHub: https://github.com/Ziadkhaled8
+- Email: ziadkhaledmadeeh@gmail.com
+
+Thanks for visiting my profile! 🚀
